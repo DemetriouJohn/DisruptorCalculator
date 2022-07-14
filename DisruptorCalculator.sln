@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisruptorCalculator", "DisruptorCalculator.csproj", "{DF68D1BD-C330-4EB6-8648-5B4B3B158B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF68D1BD-C330-4EB6-8648-5B4B3B158B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF68D1BD-C330-4EB6-8648-5B4B3B158B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF68D1BD-C330-4EB6-8648-5B4B3B158B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF68D1BD-C330-4EB6-8648-5B4B3B158B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7087F730-B3F0-41BB-B65E-DF80DAF45A88}
+	EndGlobalSection
+EndGlobal
